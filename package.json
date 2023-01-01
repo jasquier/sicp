@@ -1,0 +1,17 @@
+{
+  "name": "sicp",
+  "version": "1.0.0",
+  "description": "This project contains my notes, scripts, and solutions for a work-thru of SICP.",
+  "scripts": {
+    "style": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "John A. Squier <jasquier@gmail.com>",
+  "license": "ISC",
+  "prettier": {
+    "proseWrap": "always"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}

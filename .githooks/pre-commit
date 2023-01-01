@@ -1,0 +1,5 @@
+# Exit with non-zero status if any of the following commands fail.
+set -e
+
+# Style files
+yarn style
